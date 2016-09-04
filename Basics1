@@ -1,0 +1,11 @@
+1. To check the whether git is installed run the command-- ls -la 
+2. To install the git pacakage run-- git init (If you run this command the git pacakage is installed in that specific directory only)
+3. Pulling files from Git and step by step to update the git file 
+Example:
+--> git pull https://github.com/kunaram/test 
+--> vi Firstfile1.txt
+--> git add Firstfile1.txt [we can also use git add * but it will make  effect of current directory to Git Hub]
+--> git commit Firstfile1.txt
+--> git commit -m "updated the text file" [Desired to show as a message in Git]
+--> git push Firstfile1.txt 
+--> git push https://github.com/kunaram/test  
