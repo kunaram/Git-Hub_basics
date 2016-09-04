@@ -1,4 +1,4 @@
-1. To check the whether git is installed run the command-- ls -la 
+1. To check the whether git is installed, run the command-- ls -la 
 2. To install the git pacakage run-- git init (If you run this command the git pacakage is installed in that specific directory only)
 3. Pulling files from Git and step by step to update the git file 
 Example:
